@@ -1,0 +1,35 @@
+body {
+    background-color: red;
+    color: black;
+}
+
+header {
+    background-color: red;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+}
